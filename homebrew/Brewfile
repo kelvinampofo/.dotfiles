@@ -6,11 +6,9 @@ brew "git"
 # Platform built on V8 to build network applications
 brew "node"
 # Interpreted, interactive, object-oriented programming language
-brew "python@3.9"
+brew "python@3.10"
 # Voice and text chat software
 cask "discord"
-# Downloads videos from different websites
-cask "downie"
 # App to write, plan, collaborate, and get organized
 cask "notion"
 # Calculator and converter application
